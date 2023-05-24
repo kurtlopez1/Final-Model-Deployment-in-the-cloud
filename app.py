@@ -9,7 +9,7 @@ def main():
     st.write("Name: Lopez, Kurt Miguel B.")
     st.write("Section: CPE32S2")
     st.write("Instructor: Engr. Roman Richard")
-    st.title("Class Weather ( Bear/Elephant)")
+    st.title("Mammal Types ( Bear/Elephant)")
     st.write("This app classifies if it's a bear or an elephant.")
    
     @st.cache_resource
